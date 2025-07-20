@@ -1,72 +1,51 @@
-<h1 align="center">Hi, I'm Abdullah Toprak 👋</h1>
+<h1 align="center">Hi, I'm Abdullah Oztoprak 👋</h1>
 <p align="center">
-  🎓 Computer Engineering Student &nbsp;|&nbsp;  
+  💻 Computer Engineering Student | 🚀 Aspiring DevOps & Cybersecurity Engineer
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdullahöztoprak" target="_blank">
+  <a href="https://www.linkedin.com/in/abdullahtoprak" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Oztoprak-blue?logo=linkedin&style=flat-square" />
   </a>
-  <a href="mailto:38abdullahbaba@gmail.com">
-    <img src="https://img.shields.io/badge/Email-38abdullahbaba@gmail.com-red?style=flat-square&logo=gmail" />
+  <a href="mailto:abdullah@example.com">
+    <img src="https://img.shields.io/badge/Email-abdullah@example.com-red?style=flat-square&logo=gmail" />
   </a>
-  <a href="https://github.com/AbdullahOztoprak" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-AbdullahOztoprak-black?style=flat-square&logo=githubpages" />
+  <a href="https://abdullahtoprak.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-abdullahtoprak.github.io-black?style=flat-square&logo=githubpages" />
   </a>
 </p>
 
 ---
 
-## 🧑‍💼 About Me
+## 🔧 Skills & Tools
 
-Hello! I'm Abdullah, a final-year Computer Engineering student passionate about **DevOps, automation, and cybersecurity**. I enjoy working on real-world problems, scripting, and building clean and efficient systems.
-
-- 🏢 Currently doing an internship at **Siemens**
-- 🛠️ Working with Jenkins, Bash, Linux, Git, Docker, and more
-- 📚 Learning advanced system hardening & secure automation
-- 🌱 Always open to new challenges and opportunities
+- **Languages**: Python, JavaScript, Dart  
+- **Tools**: Jenkins, Git, Docker, Linux (Debian/Ubuntu), VirtualBox, VSCode  
+- **Specialties**: CI/CD, System Hardening, Raspberry Pi Projects, Flutter Mobile Development
 
 ---
 
-## 🚀 Key Projects
+## 🏢 Siemens Internship (July 2025)
 
-### 🔧 **Siemens Internship – Jenkins Automation Pipeline**
-> `DevOps / CI-CD / Bash / Linux`
-
-- Designed a **Jenkins master-agent** system using Debian VMs  
-- Automated hardware info collection via shell scripting and pipelines  
-- Secured communication using SSH and SCP  
-- [View Project Page](https://github.com/AbdullahOztoprak/projects/siemens.html)
+- Jenkins Master-Agent sistemi kurulumunu gerçekleştirdim  
+- Git + Docker ile CI/CD pipeline’ı oluşturdum  
+- Lynis aracıyla Linux sistemleri üzerinde güvenlik taramaları yaptım  
+- Raspberry Pi ile ağ bağlantısı ve uzaktan erişim yapılandırmaları yaptım  
+- [📄 Detaylı Proje Sayfası](https://abdullahtoprak.github.io/projects/siemens.html)
 
 ---
 
-### 📱 **Quizhoot – Quizlet Clone Mobile App**
-> `Flutter / GetX / Gamification`
+## 📱 Quizhoot – Flutter Quizlet Clone App
 
-- Flashcard-based study tool with interactive learning games  
-- XP/Level system, classroom sharing, leaderboard features  
-- Mobile-first UI with offline support  
-- [View on GitHub](https://github.com/AbdullahOztoprak/quizhoot)
+- Flashcard sistemi, multiplayer oyunlar, sınıf paylaşımı  
+- GetX state management, offline çalışma  
+- [🔗 GitHub Repo](https://github.com/AbdullahOztoprak/quizhoot)
 
 ---
 
-## 💼 Tech Stack & Tools
+## 🌐 Portfolio Website
 
-| Area            | Tools & Skills                                                      |
-|-----------------|---------------------------------------------------------------------|
-| DevOps & CI/CD  | Jenkins, Git, Docker, Bash, SSH, SCP                                |
-| Systems         | Linux (Debian/Ubuntu), VirtualBox, Raspberry Pi                     |
-| Development     | Python, Flutter, HTML/CSS, JavaScript                               |
-| Security Tools  | Lynis, system hardening, secure shell scripting                     |
-| Tools           | VSCode, GitHub                         |
+📍 [abdullahtoprak.github.io](https://abdullahtoprak.github.io)
 
 ---
 
-## 📫 Get in Touch
-
-Feel free to reach out if you'd like to collaborate or just have a chat!
-
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/abdullahoztoprak)
-- 📧 Email: `38abdullahbaba@gmail.com.com` *(değiştirirsin)*
-- 🌍 [Portfolio Website](https://AbdullahOztoprak.github.io)
-
----
+> 📫 İletişim için: `abdullah@example.com`
