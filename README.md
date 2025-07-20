@@ -5,12 +5,6 @@
   <a href="https://www.linkedin.com/in/abdullahOztoprak" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Oztoprak-blue?logo=linkedin&style=flat-square" />
   </a>
-  <a href="https://github.com/AbdullahOztoprak" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-AbdullahOztoprak-181717?logo=github&style=flat-square" />
-  </a>
-  <a href="https://abdullahtoprak.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-black?logo=githubpages&style=flat-square" />
-  </a>
 </p>
 
 ---
@@ -27,12 +21,13 @@ When I'm not coding, you'll find me exploring Linux internals or automating thin
 
 ## 🏢 Internship @ Siemens (Summer 2025)
 
-- Set up a Jenkins **master-agent** architecture on Debian-based VMs  
-- Built and executed **CI/CD pipelines** using Git & Docker  
-- Performed **system hardening** and security audits with Lynis  
-- Configured **remote access** and custom networks on Raspberry Pi  
-- 📝 [View Full Project Page](https://abdullahtoprak.github.io/projects/siemens.html)
+- Built a **Jenkins master-agent** CI/CD setup using Git & Docker  
+- Conducted **system hardening** and security audits with **Lynis**  
+- Secured Linux systems via **SSH configuration** and protocol hardening  
+- Collected system metrics from remote agents with custom scripts  
+- Configured **Raspberry Pi** devices for secure remote access  
 
+> 📝 [View Full Project Page](https://abdullahtoprak.github.io/projects/siemens.html)
 ---
 
 ## 📚 Bootcamp Projects
@@ -64,9 +59,9 @@ When I'm not coding, you'll find me exploring Linux internals or automating thin
 
 ---
 
-## 🌐 Personal Website
+## 🌐 
 
-Feel free to explore my work and contact me via [abdullahtoprak.github.io](https://abdullahtoprak.github.io)
+Feel free to explore my work and contact me.
 
 ---
 
