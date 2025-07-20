@@ -9,8 +9,8 @@
   <a href="mailto:38abdullahbaba@gmail.com">
     <img src="https://img.shields.io/badge/Email-38abdullahbaba@gmail.com-red?style=flat-square&logo=gmail" />
   </a>
-  <a href="https://AbdullahOztoprak.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-AbdullahOztoprak.github.io-black?style=flat-square&logo=githubpages" />
+  <a href="https://github.com/AbdullahOztoprak" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-AbdullahOztoprak-black?style=flat-square&logo=githubpages" />
   </a>
 </p>
 
@@ -35,7 +35,7 @@ Hello! I'm Abdullah, a final-year Computer Engineering student passionate about 
 - Designed a **Jenkins master-agent** system using Debian VMs  
 - Automated hardware info collection via shell scripting and pipelines  
 - Secured communication using SSH and SCP  
-- [View Project Page](https://abdullahtoprak.github.io/projects/siemens.html)
+- [View Project Page](https://github.com/AbdullahOztoprak/projects/siemens.html)
 
 ---
 
@@ -45,7 +45,7 @@ Hello! I'm Abdullah, a final-year Computer Engineering student passionate about 
 - Flashcard-based study tool with interactive learning games  
 - XP/Level system, classroom sharing, leaderboard features  
 - Mobile-first UI with offline support  
-- [View on GitHub](https://github.com/abdullahoztoprak/quizhoot)
+- [View on GitHub](https://github.com/AbdullahOztoprak/quizhoot)
 
 ---
 
