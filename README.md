@@ -1,8 +1,8 @@
 <h1 align="center">Hey there, I'm Abdullah Oztoprak 👋</h1>
 
 <p align="center">
-  <em>Computer Engineering Student · Passionate about Cybersecurity & DevOps</em><br>
-  <a href="https://www.linkedin.com/in/abdullahOztoprak" target="_blank">
+  <em>Computer Engineering Student</em><br>
+  <a href="https://www.linkedin.com/in/AbdullahÖztoprak" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Oztoprak-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
@@ -26,8 +26,6 @@ When I'm not coding, you'll find me exploring Linux internals or automating thin
 - Secured Linux systems via **SSH configuration** and protocol hardening  
 - Collected system metrics from remote agents with custom scripts  
 - Configured **Raspberry Pi** devices for secure remote access  
-
-> 📝 [View Full Project Page](https://abdullahtoprak.github.io/projects/siemens.html)
 ---
 
 ## 📚 Bootcamp Projects
@@ -53,9 +51,9 @@ When I'm not coding, you'll find me exploring Linux internals or automating thin
 ## 🛠️ Tools & Technologies
 
 - **Languages**: Python · Dart · JavaScript  
-- **DevOps Tools**: Jenkins · Docker · Git · GitHub Actions  
+- **DevOps Tools**: Jenkins · Docker · Git 
 - **Systems**: Linux (Debian/Ubuntu) · Raspberry Pi · VirtualBox  
-- **Others**: VSCode · Flutter · Bash Scripting
+- **Others**: VSCode · Flutter 
 
 ---
 
