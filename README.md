@@ -34,11 +34,29 @@
 
 ---
 
-## 📱 Quizhoot – Flutter Quizlet Clone App
+---
 
-- Flashcard sistemi, multiplayer oyunlar, sınıf paylaşımı  
-- GetX state management, offline çalışma  
-- [🔗 GitHub Repo](https://github.com/AbdullahOztoprak/quizhoot)
+## 📊 Bootcamp Projects
+
+### 🧠 Aygaz Görüntü İşleme Bootcamp (Image Processing)
+> `Jupyter Notebook / Python / OpenCV / Machine Learning`
+
+- Görüntü işleme teknikleriyle veri setleri üzerinde analizler yapıldı  
+- Python + OpenCV kullanılarak resim sınıflandırma ve işleme uygulamaları geliştirildi  
+- Feature extraction, thresholding, edge detection gibi işlemler uygulandı  
+- [🔗 View Project on GitHub](https://github.com/AbdullahOztoprak/Image-Processing-Project)
+
+---
+
+### 📈 Aygaz Veri Analiz Bootcamp (Data Analysis)
+> `Python / Pandas / Matplotlib / Seaborn`
+
+- Gerçek veri setleriyle Python üzerinde istatistiksel analizler yapıldı  
+- Pandas ile veri temizleme, görselleştirme ve yorumlama  
+- Raporlama ve karar destek odaklı grafikler oluşturuldu  
+- [🔗 View Project on GitHub](https://github.com/AbdullahOztoprak/Aygaz-Veri-Analiz-Bootcamp)
+
+
 
 ---
 
