@@ -1,69 +1,76 @@
-<h1 align="center">Hi, I'm Abdullah Oztoprak 👋</h1>
+<h1 align="center">Hey there, I'm Abdullah Oztoprak 👋</h1>
 
 <p align="center">
-  💻 Computer Engineering Student | 🚀 Aspiring DevOps & Cybersecurity Engineer
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdullahOztoprak/" target="_blank">
+  <em>Computer Engineering Student · Passionate about Cybersecurity & DevOps</em><br>
+  <a href="https://www.linkedin.com/in/abdullahOztoprak" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Oztoprak-blue?logo=linkedin&style=flat-square" />
   </a>
   <a href="https://github.com/AbdullahOztoprak" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-AbdullahOztoprak-black?style=flat-square&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-AbdullahOztoprak-181717?logo=github&style=flat-square" />
   </a>
   <a href="https://abdullahtoprak.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-abdullahtoprak.github.io-darkgreen?style=flat-square&logo=githubpages" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-black?logo=githubpages&style=flat-square" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Skills & Technologies
+## 👨‍💻 About Me
 
-- **Languages**: Python, JavaScript, Dart  
-- **Tools & Platforms**: Jenkins, Git, Docker, Linux (Debian/Ubuntu), VirtualBox, VS Code  
-- **Focus Areas**: CI/CD, System Hardening, Raspberry Pi Networking, Flutter Mobile Development
+Hi! I'm Abdullah, a curious and driven Computer Engineering student who enjoys solving real-world problems with code.  
+I'm especially interested in **DevOps**, **Cybersecurity**, and building **automated systems** that just work.
 
----
-
-## 🏢 Siemens Internship – July 2025
-
-During my internship at Siemens, I worked on:
-
-- Setting up Jenkins Master-Agent architecture on Debian-based systems  
-- Designing and automating CI/CD pipelines using Git and Docker  
-- Performing system hardening and security audits with Lynis  
-- Configuring remote access and network setup on Raspberry Pi devices  
-- 👉 [Project Page (Detailed)](https://abdullahtoprak.github.io/projects/siemens.html)
+I believe that **learning by doing** is the most powerful approach — and this portfolio is a reflection of that.  
+When I'm not coding, you'll find me exploring Linux internals or automating things with Python 🐍.
 
 ---
 
-## 📊 Bootcamp Projects
+## 🏢 Internship @ Siemens (Summer 2025)
 
-### 🧠 Aygaz Image Processing Bootcamp
-> `Python / OpenCV / Machine Learning / Jupyter`
-
-- Worked on image classification and preprocessing  
-- Implemented techniques such as feature extraction, thresholding, edge detection  
-- Developed and documented computer vision solutions in Jupyter Notebook  
-- 🔗 [View Repository](https://github.com/AbdullahOztoprak/Image-Processing-Project)
+- Set up a Jenkins **master-agent** architecture on Debian-based VMs  
+- Built and executed **CI/CD pipelines** using Git & Docker  
+- Performed **system hardening** and security audits with Lynis  
+- Configured **remote access** and custom networks on Raspberry Pi  
+- 📝 [View Full Project Page](https://abdullahtoprak.github.io/projects/siemens.html)
 
 ---
 
-### 📈 Aygaz Data Analysis Bootcamp
-> `Python / Pandas / Seaborn / Matplotlib`
+## 📚 Bootcamp Projects
 
-- Conducted exploratory data analysis on real-world datasets  
-- Cleaned, visualized, and interpreted data using Pandas and visualization libraries  
-- Created statistical reports and decision-support dashboards  
-- 🔗 [View Repository](https://github.com/AbdullahOztoprak/Aygaz-Veri-Analiz-Bootcamp)
+### 🧠 Image Processing Bootcamp – Aygaz
+> `Jupyter Notebook · Python · OpenCV`
+
+- Worked with image datasets using Python & OpenCV  
+- Applied techniques like edge detection, thresholding, and contour analysis  
+- Developed ML-based classification examples  
+- 🔗 [GitHub Repo](https://github.com/AbdullahOztoprak/Image-Processing-Project)
+
+### 📈 Data Analysis Bootcamp – Aygaz
+> `Pandas · Seaborn · Matplotlib`
+
+- Conducted statistical analysis on real-world datasets  
+- Cleaned, visualized, and interpreted data using Python tools  
+- Delivered dashboards and visual summaries for business insights  
+- 🔗 [GitHub Repo](https://github.com/AbdullahOztoprak/Aygaz-Veri-Analiz-Bootcamp)
 
 ---
 
-## 🌐 Personal Portfolio Website
+## 🛠️ Tools & Technologies
 
-📍 [abdullahtoprak.github.io](https://abdullahtoprak.github.io)
+- **Languages**: Python · Dart · JavaScript  
+- **DevOps Tools**: Jenkins · Docker · Git · GitHub Actions  
+- **Systems**: Linux (Debian/Ubuntu) · Raspberry Pi · VirtualBox  
+- **Others**: VSCode · Flutter · Bash Scripting
 
 ---
 
-> Feel free to check out my GitHub repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/abdullahOztoprak/)
+## 🌐 Personal Website
+
+Feel free to explore my work and contact me via [abdullahtoprak.github.io](https://abdullahtoprak.github.io)
+
+---
+
+<!-- Footer Note -->
+<p align="center">
+  Thanks for visiting! 😊
+</p>
