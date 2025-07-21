@@ -19,22 +19,14 @@ When I'm not coding, you'll find me exploring Linux internals or automating thin
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahOztoprak&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahOztoprak&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
----
-
 ## 🏢 Internship @ Siemens (Summer 2025)
 
 - Built a **Jenkins master-agent** CI/CD setup using Git & Docker  
 - Conducted **system hardening** and security audits with **Lynis**  
 - Secured Linux systems via **SSH configuration** and protocol hardening  
 - Collected system metrics from remote agents with custom scripts  
-- Configured **Raspberry Pi** devices for secure remote access  
+- Configured **Raspberry Pi** devices for secure remote access
+  
 ---
 
 ## 📚 Bootcamp Projects
@@ -62,6 +54,15 @@ When I'm not coding, you'll find me exploring Linux internals or automating thin
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahOztoprak&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahOztoprak&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
