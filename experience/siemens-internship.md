@@ -10,14 +10,17 @@ Spending a month at Siemens was my very first step into the real IT world and it
 
 ### 💡 What I Learned & Built
 
+- 🔒 **Cybersecurity in Practice**  
+   Explored system vulnerabilities, did real security assessments with Lynis, and learned how to harden Linux systems step by step. Improved SSH setup and understood what it means to keep a company network truly secure.
+
+- 🌐 **Networking Know-How**  
+   Got hands-on with networking basics, from configuring connections between virtual machines to understanding real company network setups and risk reduction—so I could see how everything connects behind the scenes.
+
 - 🖥️ **Real World Systems**  
    Set up Debian virtual machines, practiced real networking, LVM, RAID, and used VirtualBox snapshots—gaining confidence in infrastructure from scratch.
 
 - 🔁 **Automation & DevOps**  
    Built CI/CD pipelines in Jenkins (master–agent), integrated Git, ran builds, and used Docker for painless test environments, so delivery was always fast and smooth.
-
-- 🛡️ **Hands On Security**  
-   Ran real security audits with Lynis, hardened systems, improved SSH defense and boosted security scores for peace of mind.
 
 - 🐧 **Linux Mastery**  
    Navigated the essentials: APT, DPKG, critical commands, user management and even the mysteries of the Linux boot process.
