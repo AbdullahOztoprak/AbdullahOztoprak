@@ -27,20 +27,29 @@ pipeline {
         }
     }
 }
+
+---
+
 ## 🛡️ The Art of Digital Fortification
 
 Security isn't just about blocking threats—it's about building fortresses. With Lynis as my guide, I navigated the complex landscape of system vulnerabilities, transforming ordinary Linux installations into hardened fortresses. SSH configurations became gateways that welcomed authorized users while remaining impenetrable to threats.
+
+---
 
 ## 📡 IoT: Making Machines Speak
 
 Raspberry Pi devices became my canvas for creating a network of intelligent eyes and ears. Each device, strategically deployed and configured, formed part of a broader monitoring ecosystem. The satisfaction of seeing these small yet powerful computers successfully reporting system metrics remotely was immeasurable.
 
+---
+
 ## 🧰 The Toolbox I Mastered
 
-* **Orchestration & Automation:** Jenkins, Docker, Git, Pipeline scripting
-* **System Architecture:** Linux (Debian/Ubuntu), VirtualBox, VM networking
-* **Security Arsenal:** Lynis, SSH hardening, protocol security, audit tools
+* **Orchestration & Automation:** Jenkins, Docker, Git, Pipeline scripting  
+* **System Architecture:** Linux (Debian/Ubuntu), VirtualBox, VM networking  
+* **Security Arsenal:** Lynis, SSH hardening, protocol security, audit tools  
 * **IoT Implementation:** Raspberry Pi configuration, remote monitoring, secure access
+
+---
 
 ## 💫 Moments of Impact
 
@@ -48,6 +57,8 @@ Raspberry Pi devices became my canvas for creating a network of intelligent eyes
 * Transformed vulnerable systems into hardened environments with measurable security improvements
 * Brought IoT monitoring from concept to reality with practical implementations
 * Created documentation that turned complex concepts into accessible knowledge
+
+---
 
 ## 🧠 Beyond Technical: The Meta-Skills
 
@@ -57,6 +68,8 @@ The technical skills were just the beginning. The real growth came from:
 * Translating complex problems into actionable solutions
 * Communicating technical concepts clearly across teams
 * Balancing innovation with practical implementation
+
+---
 
 ## 🌠 The Road Forward
 
