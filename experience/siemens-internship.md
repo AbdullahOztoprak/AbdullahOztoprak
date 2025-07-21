@@ -18,6 +18,23 @@ Spending a month at Siemens was my very first step into the real IT world—and 
 - **Advanced Infrastructure:** Explored BIOS/UEFI, POST, bootloaders, service management (systemd), and hands-on with actual company hardware and software rollout processes.
 - **Risk Awareness:** Learned how to analyze digital risks and apply documentation-based solutions in line with corporate standards.
 
+
+---
+
+### 🛠️ Tools & Technologies At a Glance
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lynis-FFA500?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjMwIiBoZWlnaHQ9IjMwIiBmaWxsPSIjRkZBNTAwIi8+PC9zdmc+" />
+  <img src="https://img.shields.io/badge/SSH-333366?style=flat&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+</p>
+
 ---
 
 ### 🌟 The Siemens Difference
