@@ -1,4 +1,4 @@
-# 🚀 My Siemens Journey: Beyond the Ordinary Internship
+# 🚀 My Siemens Journey
 
 > *"Where innovation meets hands-on experience"* | Summer 2025 | Digital Industries
 
@@ -9,6 +9,7 @@ What happens when you combine cutting-edge technology, enterprise-level challeng
 ## ⚙️ Behind the Scenes: Projects That Pushed Boundaries
 
 ### 🔄 Orchestrating the CI/CD Symphony
+
 I crafted a Jenkins master-agent architecture that felt like conducting an orchestra—every component playing its part perfectly. The pipelines I built weren't just code; they were automated highways delivering solutions with precision and speed. Docker containers became my building blocks, creating consistent environments where tests ran flawlessly.
 
 ```python
@@ -27,7 +28,6 @@ pipeline {
         }
     }
 }
-
 ---
 
 ## 🛡️ The Art of Digital Fortification
