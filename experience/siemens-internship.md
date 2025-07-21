@@ -10,29 +10,29 @@ Spending a month at Siemens was my very first step into the real IT world and it
 
 ### 💡 What I Learned & Built
 
-- 🔒 **Cybersecurity in Practice**  
-   Explored system vulnerabilities, did real security assessments with Lynis, and learned how to harden Linux systems step by step. Improved SSH setup and understood what it means to keep a company network truly secure.
+- 🔒 **Diving into Cybersecurity**  
+   Got curious about threats and defense: scanned for system vulnerabilities, ran real security tests with Lynis, locked down Linux systems step by step and made SSH a true security gate.
 
-- 🌐 **Networking Know-How**  
-   Got hands-on with networking basics, from configuring connections between virtual machines to understanding real company network setups and risk reduction—so I could see how everything connects behind the scenes.
+- 🌐 **Networking From Basics to Big Picture**  
+   I connected virtual machines, experimented with real network protocols and saw how a company keeps its systems strong and connected.
 
-- 🖥️ **Real World Systems**  
-   Set up Debian virtual machines, practiced real networking, LVM, RAID, and used VirtualBox snapshots—gaining confidence in infrastructure from scratch.
+- 🖥️ **Hands on Infrastructure Setup**  
+   Built virtual machines with Debian, explored LVM and RAID, and learned how to restore systems with VirtualBox snapshots, from zero to working.
 
-- 🔁 **Automation & DevOps**  
-   Built CI/CD pipelines in Jenkins (master–agent), integrated Git, ran builds, and used Docker for painless test environments, so delivery was always fast and smooth.
+- 🔁 **Automation That Actually Saves Time**  
+   Created Jenkins pipelines from scratch, managed master and agent builds, connected Git for team coding and spun up Docker containers until deploying was easy.
 
-- 🐧 **Linux Mastery**  
-   Navigated the essentials: APT, DPKG, critical commands, user management and even the mysteries of the Linux boot process.
+- 🐧 **Linux Like a Pro**  
+   Learned my way around APT and DPKG, tuned essential commands, managed users and explored how Linux actually boots up—no more mysteries.
 
-- 📡 **IoT in Action**  
-   Flashed and configured Raspberry Pis, set up remote shell access and even ran Pi OS in VirtualBox to develop and test safely.
+- 📡 **IoT: Making Devices Talk**  
+   Turned Raspberry Pis into smart sensors, connected them to networks, enabled secure remote access and even tested everything in virtual sandbox environments.
 
-- 🛠️ **Advanced Infrastructure**  
-   Explored BIOS vs UEFI, the boot journey, systemd and rolled out company software and machines with real hands on practice.
+- 🛠️ **Unlocking Advanced IT**  
+   Explored system foundations like BIOS/UEFI, the boot process, managed services with systemd and helped roll out real company machines and software.
 
-- ⚠️ **Risk Awareness**  
-   Learned to spot digital risks, interpret security reports and create actionable documentation to keep systems safe and smart.
+- ⚠️ **Risk? Saw It, Fixed It**  
+   Learned to spot potential security issues, read and understand reports and document fixes so our systems stay safe, not just today, but for the future.
 
 ---
 
