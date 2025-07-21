@@ -4,7 +4,7 @@
 
 ---
 
-Spending a month at Siemens was my very first step into the real IT world and it couldn’t have been a better start. I got to experience genuine teamwork, world class technology, and the unique Siemens culture all at once.
+Spending a month at Siemens was my very first step into the real IT world and it couldn’t have been a better start. I got to experience teamwork, technological environment and the unique Siemens culture all at once.
 
 ---
 
@@ -14,22 +14,22 @@ Spending a month at Siemens was my very first step into the real IT world and it
    Set up Debian virtual machines, practiced real networking, LVM, RAID, and used VirtualBox snapshots—gaining confidence in infrastructure from scratch.
 
 - 🔁 **Automation & DevOps**  
-   Built CI/CD pipelines in Jenkins (master–agent style!), integrated Git, ran builds, and used Docker for painless test environments, so delivery was always fast and smooth.
+   Built CI/CD pipelines in Jenkins (master–agent), integrated Git, ran builds, and used Docker for painless test environments, so delivery was always fast and smooth.
 
 - 🛡️ **Hands On Security**  
-   Ran real security audits with Lynis, hardened systems, improved SSH defense, and boosted security scores for peace of mind.
+   Ran real security audits with Lynis, hardened systems, improved SSH defense and boosted security scores for peace of mind.
 
 - 🐧 **Linux Mastery**  
-   Navigated the essentials: APT, DPKG, critical commands, user management, and even the mysteries of the Linux boot process.
+   Navigated the essentials: APT, DPKG, critical commands, user management and even the mysteries of the Linux boot process.
 
 - 📡 **IoT in Action**  
-   Flashed and configured Raspberry Pis, set up remote shell access, and even ran Pi OS in VirtualBox to develop and test safely.
+   Flashed and configured Raspberry Pis, set up remote shell access and even ran Pi OS in VirtualBox to develop and test safely.
 
 - 🛠️ **Advanced Infrastructure**  
-   Explored BIOS vs UEFI, the boot journey, systemd, and rolled out company software and machines with real hands on practice.
+   Explored BIOS vs UEFI, the boot journey, systemd and rolled out company software and machines with real hands on practice.
 
 - ⚠️ **Risk Awareness**  
-   Learned to spot digital risks, interpret security reports, and create actionable documentation to keep systems safe and smart.
+   Learned to spot digital risks, interpret security reports and create actionable documentation to keep systems safe and smart.
 
 ---
 
@@ -54,14 +54,14 @@ Spending a month at Siemens was my very first step into the real IT world and it
 - My team made me feel like a real contributor from day one.
 - Knowledge flowed freely—everyone encouraged questions and new ideas.
 - I saw how Siemens blends deep technical expertise with open minded collaboration and mentorship.
-- The culture is all about innovation, discipline, and support.
+- The culture is all about innovation, discipline and support.
 
 ---
 
 ### 🚩 What This Internship Means to Me
 
-This was far more than a technical lesson—it was my launchpad into the business and culture of technology.  
-I left Siemens not just with a toolkit of IT and DevOps skills, but with the spirit and confidence to face new challenges, and the real desire to be part of this team again in the future.
+This was way more than just a technical experience—it was my real introduction to working in tech.
+I left Siemens with new IT and DevOps skills, a whole lot more confidence and genuine excitement to return and work with this team again someday.
 
 ---
 
