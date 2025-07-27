@@ -2,7 +2,7 @@
 # 🎨 Siemens Internship Portfolio: My Journey in Tech 🚀
 
 <p align="center">
-  <img src="/media/siemens_intern_banner.jpg" alt="Siemens Internship Banner" width="05%"/>
+  <img src="/experience/siemens_intern_banner.jpg" alt="Siemens Internship Banner" width="05%"/>
 </p>
 
 <p align="center">
