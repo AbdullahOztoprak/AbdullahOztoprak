@@ -12,10 +12,10 @@
 ## 👨‍💻 About Me
 
 Hi! I'm Abdullah, a curious and driven Computer Engineering student who enjoys solving real-world problems with code.  
-I'm especially interested in **DevOps**, **Cybersecurity**, and building **automated systems** that just work.
+I'm especially interested in **DevOps**, **Cybersecurity**, **AI technologies** and building **automated systems** that just work.
 
-I believe that **learning by doing** is the most powerful approach — and this portfolio is a reflection of that.  
-When I'm not coding, you'll find me exploring Linux internals or automating things with Python 🐍.
+I believe that learning by doing is the most powerful approach — and this portfolio is a reflection of that.  
+
 
 ---
 
@@ -46,7 +46,7 @@ When I'm not coding, you'll find me exploring Linux internals or automating thin
 
 - Conducted statistical analysis on real-world datasets  
 - Cleaned, visualized, and interpreted data using Python tools  
-- Delivered dashboards and visual summaries for business insights  
+- Delivered dashboards and visual summaries
 - 🔗 [GitHub Repo](https://github.com/AbdullahOztoprak/Aygaz-Veri-Analiz-Bootcamp)
 
 ---
