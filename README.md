@@ -40,6 +40,19 @@ Python · Gradio · Ollama · LLM
 
 GitHub: [GitHub Repo](https://github.com/AbdullahOztoprak/LLM-case.git)
 
+
+### Tool Flower – Script Runner Platform  
+Node.js · JavaScript · SSH · Web App
+
+- Web-based platform to create, manage and run your own scripts  
+- Supports local and remote execution via SSH  
+- Add, edit, delete and organize your tools   
+- Includes basic user profile and tool search features  
+- Built with Node.js backend and live-server frontend  
+
+GitHub: [GitHub Repo](https://github.com/AbdullahOztoprak/Tool_Flower.git)
+
+
 ### Lingog – Lingo Game  
 Flutter · Dart 
 
