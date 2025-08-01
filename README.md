@@ -30,7 +30,7 @@ I believe that learning by doing is the most powerful approach — and this port
 📝 [Detailed Experience & Projects at Siemens](./experience/siemens-internship.md)
   
 ---
-### 🧠 Internship Q&A LLM  
+### 🧠 LLM  
 Python · Gradio · Ollama · LLM
 
 - Question answering system based on my Siemens internship  
@@ -44,21 +44,32 @@ GitHub: [GitHub Repo](https://github.com/AbdullahOztoprak/LLM-case.git)
 ---
 ## 📚 Bootcamp Projects
 
-### 🧠 Image Processing Bootcamp – Aygaz
-> `Jupyter Notebook · Python · OpenCV`
+### Image Processing Bootcamp – Aygaz  
+Jupyter Notebook · Python · OpenCV · CNN · Keras
 
-- Worked with image datasets using Python & OpenCV  
-- Applied techniques like edge detection, thresholding, and contour analysis  
-- Developed ML-based classification examples  
-- 🔗 [GitHub Repo](https://github.com/AbdullahOztoprak/Image-Processing-Project)
+- Built a CNN model to classify 10 animal classes using a Kaggle dataset  
+- Applied techniques like data augmentation, brightness manipulation and color constancy  
+- Used pre-trained VGG16 for transfer learning with custom dense layers  
+- Tested model performance on original, manipulated and corrected test sets  
+- Faced and documented model input shape issue during final architecture upgrade  
 
-### 📈 Data Analysis Bootcamp – Aygaz
-> `Pandas · Seaborn · Matplotlib`
+GitHub: [Image Processing Project](https://github.com/AbdullahOztoprak/Image-Processing-Project)  
+Kaggle: [Notebook Link](https://www.kaggle.com/code/abdullahoztoprak/image-processing-project)
 
-- Conducted statistical analysis on real-world datasets  
-- Cleaned, visualized, and interpreted data using Python tools  
-- Delivered dashboards and visual summaries
-- 🔗 [GitHub Repo](https://github.com/AbdullahOztoprak/Aygaz-Veri-Analiz-Bootcamp)
+
+
+### House Price Prediction – Real Estate Data Analysis  
+Pandas · Data Cleaning · EDA · Feature Engineering
+
+- Analyzed a real estate dataset from Kaggle with 168,000+ entries  
+- Cleaned missing values using median, mode and forward-fill techniques  
+- Performed EDA using visual tools (box plots, histograms, heatmaps)  
+- Explored correlations between features like area, price and location  
+- Prepared the dataset for future machine learning models  
+
+GitHub: [House Price Prediction Project](https://github.com/AbdullahOztoprak/House-Price-Prediction)
+Kaggle: [Notebook Link](https://www.kaggle.com/code/abdullahoztoprak/house-prices-data-analysis)
+
 
 ---
 
