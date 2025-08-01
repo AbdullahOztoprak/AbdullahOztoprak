@@ -50,7 +50,7 @@ Flutter · Dart
 - Uses a full Turkish dictionary for accurate word checks  
 - Available on Android, iOS, Web and desktop platforms  
 
-GitHub: [Lingog Game](https://github.com/AbdullahOztoprak/lingog)
+GitHub: [GitHub Repo](https://github.com/AbdullahOztoprak/Lingog.git)
 
 
 
