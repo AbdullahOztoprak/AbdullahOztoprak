@@ -67,9 +67,8 @@ Pandas · Data Cleaning · EDA · Feature Engineering
 - Explored correlations between features like area, price and location  
 - Prepared the dataset for future machine learning models  
 
-GitHub: [House Price Prediction Project](https://github.com/AbdullahOztoprak/House-Price-Prediction)
+GitHub: [Image Processing Project](https://github.com/AbdullahOztoprak/House-Price-Prediction)  
 Kaggle: [Notebook Link](https://www.kaggle.com/code/abdullahoztoprak/house-prices-data-analysis)
-
 
 ---
 
