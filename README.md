@@ -62,7 +62,7 @@ Kaggle: [Notebook Link](https://www.kaggle.com/code/abdullahoztoprak/image-proce
 Pandas · Data Cleaning · EDA · Feature Engineering
 
 - Analyzed a real estate dataset from Kaggle with 168,000+ entries  
-- Cleaned missing values using median, mode and forward-fill techniques  
+- Cleaned missing values using median, mode and forward fill techniques  
 - Performed EDA using visual tools (box plots, histograms, heatmaps)  
 - Explored correlations between features like area, price and location  
 - Prepared the dataset for future machine learning models  
