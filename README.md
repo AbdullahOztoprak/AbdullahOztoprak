@@ -40,6 +40,19 @@ Python · Gradio · Ollama · LLM
 
 GitHub: [GitHub Repo](https://github.com/AbdullahOztoprak/LLM-case.git)
 
+### Lingog – Lingo Game  
+Flutter · Dart 
+
+- Wordle-inspired Turkish word puzzle game built with Flutter  
+- Supports 4 to 7 letter word challenges with increasing difficulty  
+- Each guess has a 10 second timer for added excitement  
+- Includes animations, coin rewards  
+- Uses a full Turkish dictionary for accurate word checks  
+- Available on Android, iOS, Web and desktop platforms  
+
+GitHub: [Lingog Game](https://github.com/AbdullahOztoprak/lingog)
+
+
 
 ---
 ## 📚 Bootcamp Projects
