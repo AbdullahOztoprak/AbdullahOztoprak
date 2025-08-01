@@ -30,7 +30,18 @@ I believe that learning by doing is the most powerful approach — and this port
 📝 [Detailed Experience & Projects at Siemens](./experience/siemens-internship.md)
   
 ---
+### 🧠 Internship Q&A LLM  
+Python · Gradio · Ollama · LLM
 
+- Question answering system based on my Siemens internship  
+- Uses custom Q&A data for accurate answers  
+- Runs locally with Ollama and LLaMA3  
+- Simple web interface built with Gradio  
+
+GitHub: [GitHub Repo](https://github.com/AbdullahOztoprak/LLM-case.git)
+
+
+---
 ## 📚 Bootcamp Projects
 
 ### 🧠 Image Processing Bootcamp – Aygaz
