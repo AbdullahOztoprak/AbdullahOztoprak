@@ -19,7 +19,7 @@ I believe that learning by doing is the most powerful approach — and this port
 
 ---
 
-## 🏢 Internship @ Siemens (Summer 2025)
+## 🏢 Internship - Siemens (Summer 2025)
 
 - Built a **Jenkins master-agent** CI/CD setup using Git & Docker  
 - Conducted **system hardening** and security audits with **Lynis**  
