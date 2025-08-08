@@ -30,6 +30,18 @@ I believe that learning by doing is the most powerful approach — and this port
 📝 [Detailed Experience & Projects at Siemens](./experience/siemens-internship.md)
   
 ---
+
+### 🤖 AI Website Chatbot  
+Python · Streamlit · OpenAI API 
+
+- AI-powered chatbot for web development, programming, and design questions  
+- Built with Streamlit and OpenAI’s GPT models
+- Modern UI with gradients and smooth animations  
+- Customizable AI settings: choose model & creativity level  
+- Secure API key handling and user friendly design  
+
+**GitHub:** [GitHub Repo](https://github.com/AbdullahOztoprak/Langchain_website_chatbot.git)
+
 ### 🧠 LLM  
 Python · Gradio · Ollama · LLM
 
