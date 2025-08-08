@@ -135,7 +135,7 @@ Kaggle: [Notebook Link](https://www.kaggle.com/code/abdullahoztoprak/house-price
 ## 🌐 
 
 Feel free to explore my work and contact me.
-
+<a href="https://www.linkedin.com/in/AbdullahÖztoprak" target="_blank">
 ---
 
 <!-- Footer Note -->
