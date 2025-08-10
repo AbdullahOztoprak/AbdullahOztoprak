@@ -42,15 +42,16 @@ Python · Streamlit · OpenAI API
 
 **GitHub:** [GitHub Repo](https://github.com/AbdullahOztoprak/Langchain_website_chatbot.git)
 
-### 🧠 LLM  
-Python · Gradio · Ollama · LLM
 
-- Question answering system based on my Siemens internship  
-- Uses custom Q&A data for accurate answers  
-- Runs locally with Ollama and LLaMA3  
-- Simple web interface built with Gradio  
+### 📚 Library Management System  
+Python · FastAPI · httpx · Pydantic · pytest
 
-GitHub: [GitHub Repo](https://github.com/AbdullahOztoprak/LLM-case.git)
+- Complete library management system built during Global AI Hub Python 202 Bootcamp  
+- Add books by ISBN with automatic title/author fetching from Open Library API  
+- Dual interface: both CLI and REST API with interactive documentation  
+- Persistent JSON storage with comprehensive test suite and OOP design  
+
+GitHub: [GitHub Repo](https://github.com/AbdullahOztoprak/Global-AI-Hub-Python-202-Bootcamp-Project.git)
 
 
 ### Tool Flower – Script Runner Platform  
@@ -65,6 +66,17 @@ Node.js · JavaScript · SSH · Web App
 GitHub: [GitHub Repo](https://github.com/AbdullahOztoprak/Tool_Flower.git)
 
 
+### 🧠 LLM  
+Python · Gradio · Ollama · LLM
+
+- Question answering system based on my Siemens internship  
+- Uses custom Q&A data for accurate answers  
+- Runs locally with Ollama and LLaMA3  
+- Simple web interface built with Gradio  
+
+GitHub: [GitHub Repo](https://github.com/AbdullahOztoprak/LLM-case.git)
+
+
 ### Lingog – Lingo Game  
 Flutter · Dart 
 
@@ -77,9 +89,8 @@ Flutter · Dart
 
 GitHub: [GitHub Repo](https://github.com/AbdullahOztoprak/Lingog.git)
 
-
-
 ---
+
 ## 📚 Bootcamp Projects
 
 ### Image Processing Bootcamp – Aygaz  
