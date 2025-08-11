@@ -82,13 +82,15 @@ GitHub: [GitHub Repo](https://github.com/AbdullahOztoprak/Lingog.git)
 
 ## 📚 Bootcamp Projects
 
-### 📚 Library Management System  
-Python · FastAPI · httpx · Pydantic · pytest
+### 📚 Library Management System
+Python · FastAPI · SQLite · httpx · Pydantic · pytest · HTML/CSS/JavaScript
 
-- Complete library management system built during Global AI Hub Python 202 Bootcamp  
-- Add books by ISBN with automatic title/author fetching from Open Library API  
-- Dual interface: both CLI and REST API with interactive documentation  
-- Persistent JSON storage with comprehensive test suite and OOP design  
+- Complete library management system built during Global AI Hub Python 202 Bootcamp
+- Add books by ISBN with automatic title/author fetching from Open Library API
+- Three interfaces: Command Line, REST API (with interactive docs) and modern Web Frontend
+- Persistent storage with SQLite database 
+- Full CRUD: add, update, delete and list books
+- OOP design, API integration and comprehensive test suite
 
 GitHub: [GitHub Repo](https://github.com/AbdullahOztoprak/Global-AI-Hub-Python-202-Bootcamp-Project.git)
 
