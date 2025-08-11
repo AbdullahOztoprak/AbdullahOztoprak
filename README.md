@@ -89,7 +89,7 @@ Python · FastAPI · SQLite · httpx · Pydantic · pytest · HTML/CSS/JavaScrip
 - Add books by ISBN with automatic title/author fetching from Open Library API
 - Three interfaces: Command Line, REST API (with interactive docs) and modern Web Frontend
 - Persistent storage with SQLite database 
-- Full CRUD: add, update, delete and list books
+- APİ: add, update, delete and list books
 - OOP design, API integration and comprehensive test suite
 
 GitHub: [GitHub Repo](https://github.com/AbdullahOztoprak/Global-AI-Hub-Python-202-Bootcamp-Project.git)
