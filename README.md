@@ -43,17 +43,6 @@ Python · Streamlit · OpenAI API
 **GitHub:** [GitHub Repo](https://github.com/AbdullahOztoprak/Langchain_website_chatbot.git)
 
 
-### 📚 Library Management System  
-Python · FastAPI · httpx · Pydantic · pytest
-
-- Complete library management system built during Global AI Hub Python 202 Bootcamp  
-- Add books by ISBN with automatic title/author fetching from Open Library API  
-- Dual interface: both CLI and REST API with interactive documentation  
-- Persistent JSON storage with comprehensive test suite and OOP design  
-
-GitHub: [GitHub Repo](https://github.com/AbdullahOztoprak/Global-AI-Hub-Python-202-Bootcamp-Project.git)
-
-
 ### Tool Flower – Script Runner Platform  
 Node.js · JavaScript · SSH · Web App
 
@@ -92,6 +81,17 @@ GitHub: [GitHub Repo](https://github.com/AbdullahOztoprak/Lingog.git)
 ---
 
 ## 📚 Bootcamp Projects
+
+### 📚 Library Management System  
+Python · FastAPI · httpx · Pydantic · pytest
+
+- Complete library management system built during Global AI Hub Python 202 Bootcamp  
+- Add books by ISBN with automatic title/author fetching from Open Library API  
+- Dual interface: both CLI and REST API with interactive documentation  
+- Persistent JSON storage with comprehensive test suite and OOP design  
+
+GitHub: [GitHub Repo](https://github.com/AbdullahOztoprak/Global-AI-Hub-Python-202-Bootcamp-Project.git)
+
 
 ### Image Processing Bootcamp – Aygaz  
 Jupyter Notebook · Python · OpenCV · CNN · Keras
