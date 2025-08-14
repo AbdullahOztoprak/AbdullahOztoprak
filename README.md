@@ -17,6 +17,10 @@ I'm especially interested in **DevOps**, **Cybersecurity**, **AI technologies** 
 I believe that learning by doing is the most powerful approach — and this portfolio is a reflection of that.  
 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AbdullahOztoprak&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
 ---
 
 ## 🏢 Internship - Siemens (Summer 2025)
