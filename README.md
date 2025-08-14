@@ -11,10 +11,11 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm Abdullah, a curious and driven Computer Engineering student who enjoys solving real-world problems with code.  
-I'm especially interested in **DevOps**, **Cybersecurity**, **AI technologies** and building **automated systems** that just work.
+Hi, I’m Abdullah, a Computer Engineering student at the Turkish-German University. I’m naturally curious and always eager to explore new areas and expand my skills.
 
-I believe that learning by doing is the most powerful approach — and this portfolio is a reflection of that.  
+Right now, my main focus is on AI technologies, network security and software engineering. I have a strong interest in DevOps, cybersecurity and building automated systems that run reliably and make life easier.
+
+I believe the best way to learn is by creating and experimenting and this portfolio is a reflection of the projects and ideas I’ve brought to life.
 
 
 ## 🏆 GitHub Trophies
