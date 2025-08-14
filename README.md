@@ -141,6 +141,11 @@ Kaggle: [Notebook Link](https://www.kaggle.com/code/abdullahoztoprak/house-price
 
 ---
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdullahOztoprak&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
