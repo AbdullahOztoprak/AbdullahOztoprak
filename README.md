@@ -48,7 +48,7 @@ Python · Streamlit · OpenAI API
 **GitHub:** [GitHub Repo](https://github.com/AbdullahOztoprak/Langchain_website_chatbot.git)
 
 
-### Tool Flower – Script Runner Platform  
+### 🧰 Tool Flower – Script Runner Platform  
 Node.js · JavaScript · SSH · Web App
 
 - Web-based platform to create, manage and run your own scripts  
@@ -71,7 +71,7 @@ Python · Gradio · Ollama · LLM
 GitHub: [GitHub Repo](https://github.com/AbdullahOztoprak/LLM-case.git)
 
 
-### Lingog – Lingo Game  
+### 🎮 Lingog – Lingo Game  
 Flutter · Dart 
 
 - Wordle-inspired Turkish word puzzle game built with Flutter  
@@ -85,7 +85,7 @@ GitHub: [GitHub Repo](https://github.com/AbdullahOztoprak/Lingog.git)
 
 ---
 
-## 📚 Bootcamp Projects
+## ⛺ Bootcamp Projects
 
 ### 📚 Library Management System
 Python · FastAPI · SQLite · httpx · Pydantic · pytest · HTML/CSS/JavaScript
@@ -100,7 +100,7 @@ Python · FastAPI · SQLite · httpx · Pydantic · pytest · HTML/CSS/JavaScrip
 GitHub: [GitHub Repo](https://github.com/AbdullahOztoprak/Global-AI-Hub-Python-202-Bootcamp-Project.git)
 
 
-### Image Processing Bootcamp – Aygaz  
+### 🎨 Image Processing Bootcamp – Aygaz  
 Jupyter Notebook · Python · OpenCV · CNN · Keras
 
 - Built a CNN model to classify 10 animal classes using a Kaggle dataset  
@@ -114,7 +114,7 @@ Kaggle: [Notebook Link](https://www.kaggle.com/code/abdullahoztoprak/image-proce
 
 
 
-### House Price Prediction – Real Estate Data Analysis  
+### 🏡 House Price Prediction – Real Estate Data Analysis  
 Pandas · Data Cleaning · EDA · Feature Engineering
 
 - Analyzed a real estate dataset from Kaggle with 168,000+ entries  
@@ -150,7 +150,7 @@ Kaggle: [Notebook Link](https://www.kaggle.com/code/abdullahoztoprak/house-price
 
 ---
 
-## 🌐 
+## 🛂
 
 Feel free to explore my work and contact me.
 
