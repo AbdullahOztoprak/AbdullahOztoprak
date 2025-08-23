@@ -1,7 +1,7 @@
 # 🚀 Siemens Internship Portfolio
 
 <p align="center">
-  <img src="/experience/siemens_intern_banner.jpg" alt="Siemens Internship Banner" width="40%"/>
+  <img src="/experience/siemens_intern_banner.jpg" alt="Siemens Internship Banner" width="10%"/>
 </p>
 
 <p align="center">
