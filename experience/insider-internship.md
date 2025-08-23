@@ -45,6 +45,14 @@ This portfolio highlights the main projects, skills, and lessons I’ve gained d
 
 ---
 
+## 🤝 Insider Culture
+From the very beginning, I was welcomed into a highly collaborative and dynamic environment at Insider.  
+The team culture encouraged **open communication, knowledge sharing, and continuous learning**, which made it easy to adapt and contribute.
+
+I experienced firsthand how important teamwork and mentorship are in driving innovation, and I appreciated the supportive atmosphere where asking questions and exploring new ideas was always encouraged.  
+
+---
+
 ## 💬 Reflections
 My time at Insider has been a great step forward in both **technical and professional growth**.  
 I not only built backend features with Go but also gained a deeper understanding of working in a fast-paced startup culture.  
