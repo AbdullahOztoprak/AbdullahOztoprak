@@ -1,7 +1,7 @@
 # 🚀 Insider Internship Portfolio
 
 <p align="center">
-  <img src="/experience/insider_intern_banner.jpg" alt="Insider Internship Banner" width="40%"/>
+  <img src="/experience/insider_intern_banner.jpg" alt="Insider Internship Banner" width="10%"/>
 </p>
 
 <p align="center">
