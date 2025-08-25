@@ -33,6 +33,17 @@ I believe the best way to learn is by creating and experimenting and this portfo
 - Configured **Raspberry Pi** devices for secure remote access
 
 📝 [Detailed Experience & Projects at Siemens](./experience/siemens-internship.md)
+
+
+## 🏫 Internship – Insider (Aug 2025 – Present)
+
+- Built **backend services using Go** for a system that manages users and financial data  
+- Worked on **data-based projects** to help make better decisions  
+- Learned and practiced **LLM and AI tools** in real projects  
+- Improved **problem solving skills** by working with the team  
+
+📝 [Detailed Experience & Projects at Insider](./experience/insider-internship.md)
+
   
 ---
 
