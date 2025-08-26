@@ -36,7 +36,7 @@ I believe the best way to learn is by creating and experimenting and this portfo
 📝 [Detailed Experience & Projects at Siemens](./experience/siemens-internship.md)
 
 
-## 🏫 Internship – Insider (Aug 2025 – Present)
+## 🏫 Internship – Insider (Summer 2025)
 
 - Built **backend services using Go** for a system that manages users and financial data  
 - Worked on **data-based projects** to help make better decisions  
