@@ -20,6 +20,7 @@ I believe the best way to learn is by creating and experimenting and this portfo
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AbdullahOztoprak&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=AbdullahOztoprak)
 
 
 ---
