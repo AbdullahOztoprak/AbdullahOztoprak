@@ -48,6 +48,19 @@ I believe the best way to learn is by creating and experimenting and this portfo
   
 ---
 
+
+### 🚀 Go Backend API
+Go · PostgreSQL · Docker
+
+- High-performance and secure backend API architecture
+- Built with Go, integrated with PostgreSQL database
+- Easy setup and deployment using Docker
+- Modular structure: repository, service, and worker layers
+- API endpoints tested and documented with Postman
+
+**GitHub:** [GitHub Repo](https://github.com/AbdullahOztoprak/Backend-Path.git)
+
+
 ### 🤖 AI Website Chatbot  
 Python · Streamlit · OpenAI API 
 
