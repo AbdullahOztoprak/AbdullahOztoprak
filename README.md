@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Abdullah Öztoprak
 
 AI Systems • Backend Architecture • Automation Platforms  
@@ -70,25 +69,20 @@ I am open to collaborating on AI systems, backend engineering, automation platfo
 <img src="https://github-readme-stats.vercel.app/api?username=AbdullahOztoprak&show_icons=true&theme=dark"/>
 </p>
 
-## GitHub Trophies
 
-=======
 # Abdullah Oztoprak
 
-I engineer reliable AI-enabled systems from retrieval pipelines to secure automation control planes.
+I develope reliable AI-enabled systems from retrieval pipelines to secure automation control planes.
 
 AI + Systems Engineer in training, focused on production-minded backend architecture, operational automation, and trust-oriented AI workflows.
 
 I am a Computer Engineering student focused on building reliable systems, not only prototypes. My projects emphasize architecture clarity, security-aware design, observability, testing, and maintainable developer workflows.
 
 ## 🏆 GitHub Trophies
->>>>>>> 1cc4096696653b3bd8135c517c79482a3cbcff80
 ![](https://github-trophies.vercel.app/?username=AbdullahOztoprak)
 
 ## What I Build
 
-<<<<<<< HEAD
-=======
 - AI systems with retrieval pipelines, structured outputs, and confidence-aware responses
 - Backend services with layered architecture, auth, data consistency, and operational visibility
 - Automation platforms for secure execution workflows, auditability, and control-plane patterns
@@ -154,5 +148,3 @@ I am open to collaboration on AI systems, backend engineering, automation platfo
 - LinkedIn: [linkedin.com/in/abdullahoztoprak](https://linkedin.com/in/abdullahoztoprak)
 - GitHub: [github.com/AbdullahOztoprak](https://github.com/AbdullahOztoprak)
 
-
->>>>>>> 1cc4096696653b3bd8135c517c79482a3cbcff80
