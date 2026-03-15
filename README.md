@@ -1,198 +1,79 @@
-<h1 align="center">Hey there, I'm Abdullah Oztoprak 👋</h1>
+# Abdullah Oztoprak
 
-<p align="center">
-  <em>Computer Engineering Student</em><br>
-  <a href="https://www.linkedin.com/in/AbdullahÖztoprak" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Oztoprak-blue?logo=linkedin&style=flat-square" />
-  </a>
-</p>
+I engineer reliable AI-enabled systems from retrieval pipelines to secure automation control planes.
 
----
+AI + Systems Engineer in training, focused on production-minded backend architecture, operational automation, and trust-oriented AI workflows.
 
-## 👨‍💻 About Me
-
-Hi, I’m Abdullah, a Computer Engineering student at the Turkish-German University. I’m naturally curious and always eager to explore new areas and expand my skills.
-
-Right now, my main focus is on AI technologies, network security and software engineering. I have a strong interest in DevOps, cybersecurity and building automated systems that run reliably and make life easier.
-
-I believe the best way to learn is by creating and experimenting and this portfolio is a reflection of the projects and ideas I’ve brought to life.
-
+I am a Computer Engineering student focused on building reliable systems, not only prototypes. My projects emphasize architecture clarity, security-aware design, observability, testing, and maintainable developer workflows.
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AbdullahOztoprak&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ![](https://github-trophies.vercel.app/?username=AbdullahOztoprak)
 
+## What I Build
 
----
+- AI systems with retrieval pipelines, structured outputs, and confidence-aware responses
+- Backend services with layered architecture, auth, data consistency, and operational visibility
+- Automation platforms for secure execution workflows, auditability, and control-plane patterns
+- Open-source repositories with contribution workflows, CI, and developer onboarding
 
-## 🏢 Internship - Siemens (Summer 2025)
+## Core Technical Interests
 
-- Built a **Jenkins master-agent** CI/CD setup using Git & Docker  
-- Conducted **system hardening** and security audits with **Lynis**  
-- Secured Linux systems via **SSH configuration** and protocol hardening  
-- Collected system metrics from remote agents with custom scripts  
-- Configured **Raspberry Pi** devices for secure remote access
+- AI systems engineering
+- Backend and distributed systems fundamentals
+- Automation, DevOps, and platform tooling
+- Cybersecurity-aware software design
+- System reliability and operational excellence
 
-📝 [Detailed Experience & Projects at Siemens](./experience/siemens-internship.md)
+## Flagship Projects
 
+### [industrial-rag-engine](https://github.com/AbdullahOztoprak/industrial-rag-engine)
+Production-style industrial RAG service built with clean architecture. Combines retrieval, structured response contracts, confidence scoring, and safety checks through FastAPI and Streamlit interfaces.
 
-## 🏫 Internship – Insider (Summer 2025)
+### [Backend-Path](https://github.com/AbdullahOztoprak/Backend-Path)
+Layered Go backend focused on real API engineering concerns: authentication, transaction workflows, middleware boundaries, observability, and CI-backed quality checks.
 
-- Built **backend services using Go** for a system that manages users and financial data  
-- Worked on **data-based projects** to help make better decisions  
-- Learned and practiced **LLM and AI tools** in real projects  
-- Improved **problem solving skills** by working with the team  
+### [Tool_Flower](https://github.com/AbdullahOztoprak/Tool_Flower)
+Secure automation control plane for executing operational tools locally or over SSH. Designed around RBAC, validation, queue-based execution, audit logging, and execution traceability.
 
-📝 [Detailed Experience & Projects at Insider](./experience/insider-internship.md)
+### [first-contribution-playground](https://github.com/AbdullahOztoprak/first-contribution-playground)
+Community-focused open-source platform that helps junior developers make real contributions using documented workflows, templates, automation, and maintainable governance.
 
-  
----
-
-
-### 🚀 Go Backend API
-Go · PostgreSQL · Docker
-
-- High-performance and secure backend API architecture
-- Built with Go, integrated with PostgreSQL database
-- Easy setup and deployment using Docker
-- Modular structure: repository, service, and worker layers
-- API endpoints tested and documented with Postman
-
-**GitHub:** [GitHub Repo](https://github.com/AbdullahOztoprak/Backend-Path.git)
-
-
-### 🤖 AI Website Chatbot  
-Python · Streamlit · OpenAI API 
-
-- AI-powered chatbot for web development, programming, and design questions  
-- Built with Streamlit and OpenAI’s GPT models
-- Modern UI with gradients and smooth animations  
-- Customizable AI settings: choose model & creativity level  
-- Secure API key handling and user friendly design  
-
-**GitHub:** [GitHub Repo](https://github.com/AbdullahOztoprak/Langchain_website_chatbot.git)
-
-
-### 🧰 Tool Flower – Script Runner Platform  
-Node.js · JavaScript · SSH · Web App
-
-- Web-based platform to create, manage and run your own scripts  
-- Supports local and remote execution via SSH  
-- Add, edit, delete and organize your tools   
-- Includes basic user profile and tool search features  
-- Built with Node.js backend and live-server frontend  
-
-GitHub: [GitHub Repo](https://github.com/AbdullahOztoprak/Tool_Flower.git)
-
-
-### 🧠 LLM  
-Python · Gradio · Ollama · LLM
-
-- Question answering system based on my Siemens internship  
-- Uses custom Q&A data for accurate answers  
-- Runs locally with Ollama and LLaMA3  
-- Simple web interface built with Gradio  
-
-GitHub: [GitHub Repo](https://github.com/AbdullahOztoprak/LLM-case.git)
-
-
-### 🎮 Lingog – Lingo Game  
-Flutter · Dart 
-
-- Wordle-inspired Turkish word puzzle game built with Flutter  
-- Supports 4 to 7 letter word challenges with increasing difficulty  
-- Each guess has a 10 second timer for added excitement  
-- Includes animations, coin rewards  
-- Uses a full Turkish dictionary for accurate word checks  
-- Available on Android, iOS, Web and desktop platforms  
-
-GitHub: [GitHub Repo](https://github.com/AbdullahOztoprak/Lingog.git)
-
----
-
-## ⛺ Bootcamp Projects
-
-### 📚 Library Management System
-Python · FastAPI · SQLite · httpx · Pydantic · pytest · HTML/CSS/JavaScript
-
-- Complete library management system built during Global AI Hub Python 202 Bootcamp
-- Add books by ISBN with automatic title/author fetching from Open Library API
-- Three interfaces: Command Line, REST API (with interactive docs) and modern Web Frontend
-- Persistent storage with SQLite database 
-- APİ: add, update, delete and list books
-- OOP design, API integration and comprehensive test suite
-
-GitHub: [GitHub Repo](https://github.com/AbdullahOztoprak/Global-AI-Hub-Python-202-Bootcamp-Project.git)
-
-
-### 🎨 Image Processing Bootcamp – Aygaz  
-Jupyter Notebook · Python · OpenCV · CNN · Keras
-
-- Built a CNN model to classify 10 animal classes using a Kaggle dataset  
-- Applied techniques like data augmentation, brightness manipulation and color constancy  
-- Used pre-trained VGG16 for transfer learning with custom dense layers  
-- Tested model performance on original, manipulated and corrected test sets  
-- Faced and documented model input shape issue during final architecture upgrade  
-
-GitHub: [Image Processing Project](https://github.com/AbdullahOztoprak/Image-Processing-Project)  
-Kaggle: [Notebook Link](https://www.kaggle.com/code/abdullahoztoprak/image-processing-project)
-
-
-
-### 🏡 House Price Prediction – Real Estate Data Analysis  
-Pandas · Data Cleaning · EDA · Feature Engineering
-
-- Analyzed a real estate dataset from Kaggle with 168,000+ entries  
-- Cleaned missing values using median, mode and forward fill techniques  
-- Performed EDA using visual tools (box plots, histograms, heatmaps)  
-- Explored correlations between features like area, price and location  
-- Prepared the dataset for future machine learning models  
-
-GitHub: [Image Processing Project](https://github.com/AbdullahOztoprak/House-Price-Prediction)  
-Kaggle: [Notebook Link](https://www.kaggle.com/code/abdullahoztoprak/house-prices-data-analysis)
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
+### [Lingog](https://github.com/AbdullahOztoprak/Lingog)
+Cross-platform Flutter product that demonstrates end-to-end delivery, gameplay design, and maintainable mobile/web app structure beyond a single-platform prototype.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdullahOztoprak&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahOztoprak&layout=compact&theme=dark" alt="Top Languages" />
-</p>
 
----
+## Engineering Principles
 
-## 🛂
+- Design clear boundaries before scaling features
+- Treat reliability and observability as first-class requirements
+- Prefer secure defaults and explicit operational constraints
+- Keep architecture understandable, testable, and easy to evolve
+- Build with real execution environments in mind
 
-Feel free to explore my work and contact me.
+## Current Focus
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdullahoztoprak" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Oztoprak-blue?logo=linkedin&style=flat-square" />
-  </a>
-<p align="center">
-  
----
+- Improving AI system evaluation quality and retrieval robustness
+- Strengthening backend architecture and performance validation
+- Building safer automation patterns for operational tooling
+- Growing open-source repositories with contributor-friendly standards
 
-<!-- Footer Note -->
-<p align="center">
-  Thanks for visiting! 😊
-</p>
+## Experience
+
+- Siemens Internship (Summer 2025): CI/CD, Linux hardening, SSH security, and automation workflows
+- Insider Internship (Summer 2025): Go backend development, data-driven engineering work, and team delivery in production-oriented environments
+
+Details:
+- [Siemens experience](./experience/siemens-internship.md)
+- [Insider experience](./experience/insider-internship.md)
+
+## Collaboration
+
+I am open to collaboration on AI systems, backend engineering, automation platforms, and open-source projects with real engineering depth.
+
+- LinkedIn: [linkedin.com/in/abdullahoztoprak](https://linkedin.com/in/abdullahoztoprak)
+- GitHub: [github.com/AbdullahOztoprak](https://github.com/AbdullahOztoprak)
+
+
