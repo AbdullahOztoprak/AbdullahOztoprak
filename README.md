@@ -21,6 +21,8 @@ Rather than treating software as a collection of isolated features, I approach i
 
 ---
 
+## 🏆 GitHub Trophies ![](https://github-trophies.vercel.app/?username=AbdullahOztoprak)
+
 ## What I Build
 
 - Backend systems with clear service boundaries and scalable architecture
