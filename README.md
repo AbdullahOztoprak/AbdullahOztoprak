@@ -110,6 +110,8 @@ Git • Docker • Linux • CI/CD
 
 ---
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbdullahOztoprak&show_icons=true&theme=dark" alt="GitHub Stats" /> </p>
+
 ## Current Focus
 
 I am currently deepening my work in backend systems, data-oriented applications, and AI-based software design. My goal is to build software that combines solid engineering with practical usefulness — systems that are well-structured, dependable, and designed for real environments rather than temporary demos.
