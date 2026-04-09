@@ -1,150 +1,126 @@
+<div align="center">
+
 # Abdullah Öztoprak
 
-AI Systems • Backend Architecture • Automation Platforms  
-Building reliable, observable and security-aware software systems
+### Software Engineer in Training • Backend Systems • Data & AI Applications
 
-I am an early-career Computer Engineering student building real systems with production-minded engineering practices. My work focuses on AI pipelines, backend service architecture, automation tooling, and security-aware reliability, with an emphasis on clean design, observable operations, and maintainable delivery workflows.
+Building reliable, maintainable, and intelligent software systems for real-world use.
 
-## Core Interests
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Öztoprak-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abdullahoztoprak)
+[![GitHub](https://img.shields.io/badge/GitHub-AbdullahOztoprak-black?style=for-the-badge&logo=github)](https://github.com/AbdullahOztoprak)
 
-- AI systems and Retrieval-Augmented Generation (RAG)
-- Backend architecture and service design
-- Automation platforms and developer tooling
-- Observability, reliability, and operational engineering
-- Security-aware system design
+</div>
 
-## Flagship Projects
+---
 
-### [industrial-rag-engine](https://github.com/AbdullahOztoprak/industrial-rag-engine)
-A modular RAG system for industrial knowledge workflows with document ingestion, vector retrieval, and API-driven serving.
-- Engineering focus: clean architecture, typed response contracts, retrieval quality, and confidence/safety signals.
-- Problem it solves: improves answer trustworthiness for domain-specific engineering questions by grounding generation in source context.
+## About Me
 
-### [Backend-Path](https://github.com/AbdullahOztoprak/Backend-Path)
-A production-oriented Go backend that demonstrates layered design and operationally aware service development.
-- Engineering focus: authentication/RBAC boundaries, middleware pipelines, PostgreSQL and Redis integration, and CI quality gates.
-- Problem it solves: provides a maintainable backend foundation for secure transaction-style workflows with clear separation of concerns.
+I am a Computer Engineering student focused on building software with strong engineering foundations. My interests span backend development, data-oriented systems, AI-powered applications, and developer-facing tools. I care about creating systems that are not only functional, but also maintainable, observable, and built with clear architectural thinking.
 
-### [Tool_Flower](https://github.com/AbdullahOztoprak/Tool_Flower)
-A secure automation control plane for running operational tools locally or over SSH.
-- Engineering focus: policy enforcement, parameter validation, queue-based execution, RBAC, audit logging, and execution observability.
-- Problem it solves: enables safer and traceable operational automation instead of ad-hoc script execution.
+Rather than treating software as a collection of isolated features, I approach it as a system that should remain understandable, reliable, and useful as it grows. I am especially interested in the intersection of software engineering, data, and applied AI, where solid system design can turn intelligent ideas into practical products.
 
-### [first-contribution-playground](https://github.com/AbdullahOztoprak/first-contribution-playground)
-A beginner-friendly open-source platform designed to teach real contribution workflows.
-- Engineering focus: contributor experience, templates, automation workflows, governance docs, and maintainable repo operations.
-- Problem it solves: lowers the barrier to first open-source contributions while preserving quality and process discipline.
-
-### [Lingog](https://github.com/AbdullahOztoprak/Lingog)
-A language learning application built as a product-oriented, cross-platform software project.
-- Engineering focus: user-facing product design, cross-platform delivery, and maintainable application structure.
-- Problem it solves: turns language practice into an accessible, engaging learning experience across multiple platforms.
-
-## Engineering Principles
-
-- Reliability by design, not as a post-release patch
-- Observability as a core feature for debugging and operations
-- Security-aware defaults and explicit trust boundaries
-- Clean architecture with clear module responsibilities
-- Maintainability through readable code and documented decisions
-- Reproducibility in development, testing, and deployment workflows
-
-## Currently Exploring
-
-- AI-powered systems with stronger evaluation and safety signals
-- Computer vision approaches for interview and behavioral analysis
-- Scalable AI pipelines for retrieval, serving, and monitoring
-- Developer automation tools for safer operational workflows
-
-## Collaboration / Contact
-
-I am open to collaborating on AI systems, backend engineering, automation platforms, and open-source projects with practical engineering depth.
-
-- LinkedIn: [linkedin.com/in/abdullahoztoprak](https://linkedin.com/in/abdullahoztoprak)
-- GitHub: [github.com/AbdullahOztoprak](https://github.com/AbdullahOztoprak)
-
-## GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AbdullahOztoprak&show_icons=true&theme=dark"/>
-</p>
-
-
-# Abdullah Oztoprak
-
-I develope reliable AI-enabled systems from retrieval pipelines to secure automation control planes.
-
-AI + Systems Engineer in training, focused on production-minded backend architecture, operational automation, and trust-oriented AI workflows.
-
-I am a Computer Engineering student focused on building reliable systems, not only prototypes. My projects emphasize architecture clarity, security-aware design, observability, testing, and maintainable developer workflows.
-
-## 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=AbdullahOztoprak)
+---
 
 ## What I Build
 
-- AI systems with retrieval pipelines, structured outputs, and confidence-aware responses
-- Backend services with layered architecture, auth, data consistency, and operational visibility
-- Automation platforms for secure execution workflows, auditability, and control-plane patterns
-- Open-source repositories with contribution workflows, CI, and developer onboarding
+- Backend systems with clear service boundaries and scalable architecture
+- Data-driven applications that turn structured workflows into practical products
+- AI-powered software built around retrieval, structured outputs, and real-world usefulness
+- Automation platforms that improve reliability, visibility, and operational control
+- Engineering-focused projects designed for clarity, maintainability, and long-term quality
 
-## Core Technical Interests
+---
 
-- AI systems engineering
-- Backend and distributed systems fundamentals
-- Automation, DevOps, and platform tooling
-- Cybersecurity-aware software design
-- System reliability and operational excellence
-
-## Flagship Projects
+## Selected Projects
 
 ### [industrial-rag-engine](https://github.com/AbdullahOztoprak/industrial-rag-engine)
-Production-style industrial RAG service built with clean architecture. Combines retrieval, structured response contracts, confidence scoring, and safety checks through FastAPI and Streamlit interfaces.
+A modular Retrieval-Augmented Generation (RAG) system designed for domain-focused knowledge workflows.
+
+**Focus areas:** document ingestion, retrieval pipelines, structured response design, API-based serving, and trust-aware AI behavior.
 
 ### [Backend-Path](https://github.com/AbdullahOztoprak/Backend-Path)
-Layered Go backend focused on real API engineering concerns: authentication, transaction workflows, middleware boundaries, observability, and CI-backed quality checks.
+A production-oriented Go backend project that demonstrates layered architecture and practical service design.
+
+**Focus areas:** authentication, RBAC, middleware design, PostgreSQL, Redis, and maintainable backend patterns.
 
 ### [Tool_Flower](https://github.com/AbdullahOztoprak/Tool_Flower)
-Secure automation control plane for executing operational tools locally or over SSH. Designed around RBAC, validation, queue-based execution, audit logging, and execution traceability.
+A secure automation platform for controlled execution of operational tools in local and remote environments.
+
+**Focus areas:** policy-based execution, parameter validation, audit logging, RBAC, workflow visibility, and operational safety.
 
 ### [first-contribution-playground](https://github.com/AbdullahOztoprak/first-contribution-playground)
-Community-focused open-source platform that helps junior developers make real contributions using documented workflows, templates, automation, and maintainable governance.
+An open-source project aimed at helping beginners make meaningful first contributions through structured workflows.
+
+**Focus areas:** contributor onboarding, collaboration standards, automation support, and maintainable repository practices.
 
 ### [Lingog](https://github.com/AbdullahOztoprak/Lingog)
-Cross-platform Flutter product that demonstrates end-to-end delivery, gameplay design, and maintainable mobile/web app structure beyond a single-platform prototype.
+A cross-platform language learning application developed with a product-oriented mindset.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahOztoprak&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
+**Focus areas:** user experience, maintainable application structure, and end-to-end product development.
+
+---
+
+## Technical Direction
+
+My current technical direction is centered on building software at the intersection of:
+
+- Backend engineering
+- Data-oriented system design
+- Applied AI and intelligent workflows
+- Automation and developer tooling
+- Reliable, observable, and maintainable software architecture
+
+I am particularly drawn to systems where engineering discipline matters as much as feature delivery.
+
+---
+
+## Technologies
+
+**Languages**  
+Python • Go • Java • C++ • Dart • SQL • Bash
+
+**Backend & Data**  
+FastAPI • REST APIs • PostgreSQL • Redis
+
+**Testing & Automation**  
+Pytest • Postman • Selenium • Playwright • Jenkins
+
+**Tools & Environment**  
+Git • Docker • Linux • CI/CD
+
+---
 
 ## Engineering Principles
 
-- Design clear boundaries before scaling features
-- Treat reliability and observability as first-class requirements
-- Prefer secure defaults and explicit operational constraints
-- Keep architecture understandable, testable, and easy to evolve
-- Build with real execution environments in mind
+- Prefer systems that remain clear as they evolve
+- Treat maintainability as a long-term advantage
+- Build with operational reality in mind
+- Value reliability over unnecessary complexity
+- Use clear boundaries to keep software scalable
+- Apply AI where it creates practical value
 
-## Current Focus
-
-- Improving AI system evaluation quality and retrieval robustness
-- Strengthening backend architecture and performance validation
-- Building safer automation patterns for operational tooling
-- Growing open-source repositories with contributor-friendly standards
+---
 
 ## Experience
 
-- Siemens Internship (Summer 2025): CI/CD, Linux hardening, SSH security, and automation workflows
-- Insider Internship (Summer 2025): Go backend development, data-driven engineering work, and team delivery in production-oriented environments
+- **Siemens Intern** — worked on CI/CD workflows, Linux-based systems, automation processes, and engineering quality practices
+- **Insider Intern** — contributed to backend development, test automation, and production-oriented software workflows
 
-Details:
-- [Siemens experience](./experience/siemens-internship.md)
-- [Insider experience](./experience/insider-internship.md)
+---
 
-## Collaboration
+## Current Focus
 
-I am open to collaboration on AI systems, backend engineering, automation platforms, and open-source projects with real engineering depth.
+I am currently deepening my work in backend systems, data-oriented applications, and AI-based software design. My goal is to build software that combines solid engineering with practical usefulness — systems that are well-structured, dependable, and designed for real environments rather than temporary demos.
 
-- LinkedIn: [linkedin.com/in/abdullahoztoprak](https://linkedin.com/in/abdullahoztoprak)
-- GitHub: [github.com/AbdullahOztoprak](https://github.com/AbdullahOztoprak)
+---
 
+## Connect
+
+- **LinkedIn:** [linkedin.com/in/abdullahoztoprak](https://linkedin.com/in/abdullahoztoprak)
+- **GitHub:** [github.com/AbdullahOztoprak](https://github.com/AbdullahOztoprak)
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahOztoprak&show_icons=true&theme=dark" alt="GitHub Stats" />
+</div>
