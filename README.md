@@ -125,6 +125,4 @@ I am currently deepening my work in backend systems, data-oriented applications,
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahOztoprak&show_icons=true&theme=dark" alt="GitHub Stats" />
-</div>
+
